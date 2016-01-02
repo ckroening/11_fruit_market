@@ -35,3 +35,5 @@ sell fruits they do not already own.
 ##Pro Mode
 Limit the application experience to five minutes. At the end, stop the price fluctuation, sell all of the fruits 
 in their inventory at current market price, and then display the total money they earned from the experience. 
+
+apple!
